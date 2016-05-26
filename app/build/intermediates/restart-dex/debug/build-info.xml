@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="15"
+    format="7"
+    timestamp="18315320214151" >
+
+    <task
+        name="javac"
+        duration="458" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="85" />
+    <task
+        name="verifier"
+        duration="25" />
+
+    <artifact
+        location="C:\Users\Administrator\AndroidStudioProjects\seekbarcustom\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="18315320214151" >
+        <artifact
+            location="C:\Users\Administrator\AndroidStudioProjects\seekbarcustom\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

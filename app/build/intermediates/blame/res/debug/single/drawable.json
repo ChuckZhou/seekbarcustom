@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\public_play_volume_dragpoint.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\src\\main\\res\\drawable\\public_play_volume_dragpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\public_play_progress_noplay.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\src\\main\\res\\drawable\\public_play_progress_noplay.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_img.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\src\\main\\res\\drawable\\seekbar_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\public_play_progress_played.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\seekbarcustom\\app\\src\\main\\res\\drawable\\public_play_progress_played.png"
+    }
+]

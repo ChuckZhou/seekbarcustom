@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!--普通的SeekBar-->
+    <SeekBar
+        android:id="@+id/sb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--自定义 可拖动 不可点击的SeekBar-->
+    <com.mobiledog.seekbarpackaging.MySeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--自定义可长按 可拖动 不可点击的SeekBar-->
+    <com.mobiledog.seekbarpackaging.SeekBarDemo
+        android:id="@+id/sb2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+   android:orientation="horizontal" 
+     >
+        <TextView 
+        android:id="@+id/tv"
+        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:textSize="30sp"
+        android:textColor="#00ffff"
+        android:text="0000---10000"
+        />
+    <!--自定义可长按 可拖动 可点击关键点的SeekBar-->
+<com.mobiledog.seekbarpackaging.SeekBarView
+    android:id="@+id/seekbarview"
+    android:layout_margin="50dp"
+    android:layout_height="40dp"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    /> 
+</LinearLayout>
+</LinearLayout>
